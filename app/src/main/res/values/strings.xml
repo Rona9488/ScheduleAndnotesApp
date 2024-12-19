@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Purrfect Agenda</string>
+    <string name="Matkul">Matkul</string>
+    <string name="Tugas">Tugas</string>
+    <string name="Profile">Profile</string>
+    <string name="signup">Sign Up</string>
+    <string name="Notes">Notes</string>
+</resources>

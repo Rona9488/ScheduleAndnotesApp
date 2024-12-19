@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650697610134",
+    "project_id": "proyekakhirpapb-c01c3",
+    "storage_bucket": "proyekakhirpapb-c01c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650697610134:android:59396f441f0d351c84c3b7",
+        "android_client_info": {
+          "package_name": "com.example.proyekakhirpapb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARn5U6sHVPnwbUNtCoyo8Es5FWKdibL0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
